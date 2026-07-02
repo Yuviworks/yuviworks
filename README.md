@@ -4,122 +4,99 @@
 Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 </h3>
 
-
-## 🎓 Education
-
-🎓 B.E. Computer Engineering (2027)
-
-🏫 Marathwada Mitra Mandal Institute of Technology (MMIT), Pune
-
-📈 CGPA: 8.50
-
-📍 Pune, Maharashtra
-
+<p align="center">
+🎓 B.E. Computer Engineering (2027)<br>
+🏫 Marathwada Mitra Mandal Institute of Technology (MMIT), Pune<br>
+📊 CGPA: 8.50<br>
+🐍 Learning Machine Learning & Data Science
+</p> 
 
 ## 👨‍💻 About Me
 
-• 🎓 Third-Year Computer Engineering Student
+- 🎓 Third-Year Computer Engineering Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Science and Data Analytics
+- 🐍 Solving DSA using Python
+- 🚀 Building real-world AI-powered projects
+- 🌱 Always learning new technologies
 
-• 🤖 Passionate about Artificial Intelligence and Machine Learning
+## 🛠 Tech Stack
 
-• 📊 Interested in Data Science & Data Analytics
+### 💻 Languages
 
-• 🐍 Solving Data Structures & Algorithms using Python
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+</p>
 
-• 🚀 Building AI-powered applications
+### 📊 Data Science
 
-• 📚 Always learning new technologies
-
-
-## 🚀 Tech Stack
-
-## 💻 Programming Languages
-
-- Python
-- JavaScript
-- SQL
-
-
-## 🌐 Web Development
-
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-## 📊 Data Science
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - Scikit-Learn
 
-## 🗄 Database
-- MySQL
-- SQL
+### 🔧 Tools
 
-## 🛠 Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Anaconda
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p> 
+
+
 
 ## 🌱 Currently Learning
 
-- Machine Learning
-- Deep Learning
-- FastAPI
-- NLP
-- Advanced Python
-- DSA in Python
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- 🧠 Deep Learning
+- ⚡ FastAPI
+- 🐍 Advanced Python
+- 📚 DSA
 
 
 ## 🚀 Featured Projects
 
-## 🤖 AI-Driven Predictive Maintenance (AIDM) (In- Progress)
+### 🤖 AI-Driven Predictive Maintenance (AIDM) *(In Progress)*
 
+- AI-powered predictive maintenance system
 - FastAPI
-- Machine Learning
-- Dashboard
-- HTML
-- CSS
-- JavaScript
+- HTML, CSS & JavaScript
+- Machine Learning Dashboard
 
-
-## 🚢 Titanic Survival Analysis (EDA)
+### 🚢 Titanic Survival Analysis (EDA)
 
 - Data Cleaning
 - Feature Engineering
-- Data Visualization
 - Statistical Analysis
-- Exploratory Data Analysis
+- Data Visualization
 
-
-## ❤️ Heart Attack Analysis (EDA)
+### ❤️ Heart Attack Analysis (EDA)
 
 - Healthcare Data Analysis
 - Risk Factor Visualization
 - Correlation Analysis
-- Statistical Insights
-- Exploratory Data Analysis
 
+### 😊 Product Review Sentiment Analysis
 
-## 😊 Product Review Sentiment Analysis
-- NLP
+- Natural Language Processing
 - Text Classification
-- Sentiment Analysis
 - Machine Learning
-- Scikit-Learn
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Yuviworks&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuviworks&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Yuviworks&theme=tokyonight)
 
 
 ## 📫 Connect With Me
 
-📧 Email: vethekaryuvraj@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/yuvrajvethekar
+- 📧 Email: vethekaryuvraj@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/yuvrajvethekar
 
 
 ## 💡 Quote
 
-> "Transforming data into intelligent solutions through AI and Machine Learning."
+> "Turning data into intelligent solutions, one project at a time."
