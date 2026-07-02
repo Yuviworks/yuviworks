@@ -22,27 +22,41 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
-</p>
+- Python
+- JavaScript
+- SQL
+- C++
 
-### 📊 Data Science
+### 🌐 Web Development
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+### 📊 Data Science & Machine Learning
 
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-Learn
+- Scikit-learn
+- Exploratory Data Analysis (EDA)
 
-### 🔧 Tools
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p> 
+- MySQL
 
+### 🛠️ Tools & Platforms
 
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Anaconda
 
 ## 🌱 Currently Learning
 
