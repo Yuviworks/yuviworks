@@ -4,14 +4,12 @@
 Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 </h3>
 
-🎓 **B.E. Computer Engineering (2027)**
-
-🏫 **Marathwada Mitra Mandal Institute of Technology (MMIT), Pune**
-
-🤖 **Exploring Artificial Intelligence, Machine Learning & NLP**
-
-💻 **Building AI-powered applications and solving real-world problems with Python**
-
+<p align="center">
+🎓 B.E. Computer Engineering (2027)<br>
+🏫 Marathwada Mitra Mandal Institute of Technology (MMIT), Pune<br>
+🤖 Exploring Artificial Intelligence, Machine Learning & NLP<br>
+💻 Building AI-powered applications and solving real-world problems with Python
+</p>
 ---
 
 ## 👨‍💻 About Me
