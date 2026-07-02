@@ -29,13 +29,13 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 - Python
 - JavaScript
 - SQL
+- C++
 
 🌐 **Web Development**
 
 - HTML5
 - CSS3
 - Bootstrap
-- Tailwind CSS
 - JavaScript
 
 📊 **Data Science & Machine Learning**
@@ -129,7 +129,6 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/yuvrajvethekar**
 
-- 💻 GitHub: **https://github.com/Yuviworks**
 
 ---
 
