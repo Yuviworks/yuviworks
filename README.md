@@ -107,22 +107,6 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 - Machine Learning
 - Scikit-learn
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yuviworks&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuviworks&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Yuviworks&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **vethekaryuvraj@gmail.com**
