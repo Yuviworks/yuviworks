@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Vethekar</h1>
+<h2 align="center">Hi 👋, I'm Yuvraj Vethekar</h2>
 
 <h3 align="center">
 Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
@@ -10,6 +10,7 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 🤖 Exploring Artificial Intelligence, Machine Learning & NLP<br>
 💻 Building AI-powered applications and solving real-world problems with Python
 </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -21,17 +22,15 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 - 🚀 Building AI-powered applications with Machine Learning
 - 🌱 Continuously learning new technologies and improving my technical skills
 
----
+🛠 **Tech Stack**
 
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
+💻 **Programming Languages**
 
 - Python
 - JavaScript
 - SQL
 
-### 🌐 Web Development
+🌐 **Web Development**
 
 - HTML5
 - CSS3
@@ -39,7 +38,7 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 - Tailwind CSS
 - JavaScript
 
-### 📊 Data Science & Machine Learning
+📊 **Data Science & Machine Learning**
 
 - NumPy
 - Pandas
@@ -48,11 +47,11 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 - Scikit-learn
 - Exploratory Data Analysis (EDA)
 
-### 🗄️ Database
+🗄️ **Database**
 
 - MySQL
 
-### 🛠️ Tools & Platforms
+🛠️ **Tools & Platforms**
 
 - Git
 - GitHub
@@ -63,7 +62,7 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 
 ---
 
-## 🌱 Currently Learning
+📚 **Currently Learning**
 
 - Machine Learning
 - Deep Learning
@@ -74,7 +73,7 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 
 ---
 
-## 🚀 Featured Projects
+📌 **Featured Projects**
 
 ### 🤖 AI-Driven Predictive Maintenance (AIDM) *(In Progress)*
 
@@ -110,22 +109,30 @@ Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Yuviworks&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yuviworks&show_icons=true&theme=tokyonight" height="170"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuviworks&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuviworks&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=Yuviworks&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Yuviworks&theme=tokyonight"/>
+</p>
 
+---
 
 ## 📫 Connect With Me
 
-- 📧 Email: vethekaryuvraj@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yuvrajvethekar
+- 📧 Email: **vethekaryuvraj@gmail.com**
 
+- 💼 LinkedIn: **https://www.linkedin.com/in/yuvrajvethekar**
 
-## 💡 Quote
+- 💻 GitHub: **https://github.com/Yuviworks**
 
-> "Turning data into intelligent solutions, one project at a time."
+---
+
+<p align="center">
+✨ <b>"Turning data into intelligent solutions, one project at a time."</b> ✨
+</p>
