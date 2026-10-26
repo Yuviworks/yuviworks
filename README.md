@@ -1,10 +1,10 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:123B63,100:00E5FF&height=220&section=header&text=Yuvraj%20Vethekar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%2FML%20%7C%20GenAI%20Developer&descAlignY=58&descSize=17" alt="Yuvraj Vethekar profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:123B63,100:00E5FF&height=220&section=header&text=Yuvraj%20Vethekar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=17" alt="Yuvraj Vethekar profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Data+Analytics;Building+AI+and+GenAI+Applications;Exploring+RAG%2C+LLMs+%26+Agentic+AI" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI%2FML+Applications;Generative+AI+%7C+LLMs+%7C+RAG;Exploring+Agentic+AI+Workflows" alt="Animated typing text" />
 </p>
 
 <p align="center">
@@ -21,16 +21,15 @@ Name       : Yuvraj Vethekar
 Education  : B.E. Computer Engineering, MMIT Pune
 Graduation : 2027
 Current    : Final-year student
-Focus      : Data Analytics, Python, AI/ML and Generative AI
+Focus      : Artificial Intelligence, Machine Learning and Generative AI
 ```
 
 - 🎓 Final-year Computer Engineering student at MMIT, Pune.
-- 📊 Building my skills in Python, SQL, data analysis, and visualization.
 - 🤖 Exploring RAG systems, LLM integrations, and agentic AI workflows.
 - 🛠️ Interested in turning data and AI ideas into useful applications.
-- 🌱 Currently strengthening my Data Analyst foundations while continuing to explore AI/ML.
+- 🌱 Continuously learning and experimenting with AI/ML and Generative AI.
 
-## `tech_stack` — Technologies & Tools
+## `tech_stack` — AI/ML & Generative AI Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python" />
@@ -48,7 +47,7 @@ Focus      : Data Analytics, Python, AI/ML and Generative AI
   <img src="https://img.shields.io/badge/VS_Code-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF" alt="VS Code" />
 </p>
 
-## `featured_projects` — Selected Projects
+## `featured_projects` — AI/ML & Generative AI Projects
 
 ### 1. AI-Native Multi-Agent Research Assistant
 **Python · LangGraph · FastAPI · Streamlit · ChromaDB · Tavily · Groq**
