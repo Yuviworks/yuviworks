@@ -1,121 +1,165 @@
-<h2 align="center">Hi 👋, I'm Yuvraj Vethekar</h2>
+
+<h1 align="center">Hi 👋, I'm Yuvraj Vethekar</h1>
 
 <h3 align="center">
-Aspiring Data Scientist | AI/ML Enthusiast | Python Developer
+AI/ML Developer | GenAI Enthusiast | Python Developer
 </h3>
 
 <p align="center">
-🎓 B.E. Computer Engineering (2027)<br>
-🏫 Marathwada Mitra Mandal Institute of Technology (MMIT), Pune<br>
-🤖 Exploring Artificial Intelligence, Machine Learning & NLP<br>
-💻 Building AI-powered applications and solving real-world problems with Python
+  🎓 B.E. Computer Engineering, MMIT Pune (2023–2027)<br>
+  📍 Pune, India<br>
+  📊 SGPA: 9.19<br>
+  🤖 Building AI applications, RAG systems, and multi-agent workflows
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yuviworks">GitHub</a> •
+  <a href="https://www.linkedin.com/in/yuvrajvethekar">LinkedIn</a> •
+  <a href="mailto:vethekaryuvraj@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-Year Computer Engineering Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Science, Data Analytics & Natural Language Processing (NLP)
-- 🐍 Solving Data Structures & Algorithms using Python
-- 🚀 Building AI-powered applications with Machine Learning
-- 🌱 Continuously learning new technologies and improving my technical skills
+I'm a final-year Computer Engineering student interested in Artificial Intelligence, Machine Learning, Generative AI, and applied data science.
 
-🛠 **Tech Stack**
+I enjoy building practical applications that combine Python, machine learning, LLMs, information retrieval, and backend APIs.
 
-💻 **Programming Languages**
+- 🧠 Exploring AI/ML, NLP, RAG, and agentic AI
+- 🔍 Building applications with LangGraph, ChromaDB, and LLM APIs
+- 🐍 Working with Python, SQL, Pandas, and NumPy
+- ⚙️ Developing backend services using FastAPI
+- 📈 Interested in solving real-world problems through data and AI
+- 🎯 Open to relevant AI/ML, GenAI, and data-focused internship opportunities
 
-- Python
-- JavaScript
-- SQL
-- C++
+## 🛠️ Technical Skills
 
-🌐 **Web Development**
+**Programming**
+- Python, SQL, JavaScript, C++
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
+**Data Science & Machine Learning**
+- Pandas, NumPy, scikit-learn, TensorFlow
+- Matplotlib, Seaborn, Exploratory Data Analysis
+- Data preprocessing, feature engineering, model evaluation
 
-📊 **Data Science & Machine Learning**
+**Generative AI & NLP**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangGraph, embeddings, semantic search
+- ChromaDB, prompt engineering, conversational AI
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Exploratory Data Analysis (EDA)
+**Backend & APIs**
+- FastAPI, REST APIs, JSON
 
-🗄️ **Database**
+**Databases**
+- MySQL, ChromaDB
 
-- MySQL
-
-🛠️ **Tools & Platforms**
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Anaconda
+**Tools & Platforms**
+- Git, GitHub, VS Code
+- Jupyter Notebook, Google Colab
+- Streamlit
 
 ---
 
-📚 **Currently Learning**
+## 🚀 Featured Projects
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- FastAPI
-- Advanced Python
-- Data Structures & Algorithms (Python)
+### 1. AI-Native Multi-Agent Research Assistant
+
+**Python | LangGraph | FastAPI | Streamlit | ChromaDB | Tavily | Groq**
+
+- Built a research workflow that decomposes complex questions into focused sub-questions.
+- Integrated web search and local document retrieval for evidence-based research.
+- Connected planning, parallel research, and report generation using LangGraph.
+- Developed a Streamlit interface and FastAPI backend.
+- Included an evaluation workflow for selected research-quality indicators.
+
+🔗 [View Repository](https://github.com/Yuviworks/ai-native-research-assistant)
+
+### 2. RAG-Based Technical Documentation Assistant
+
+**Python | RAG | LangGraph | ChromaDB | FastAPI | Sentence Transformers**
+
+- Built a documentation assistant that answers technical questions using indexed documents.
+- Implemented document ingestion, chunking, embeddings, and semantic retrieval.
+- Added document relevance grading and query-retry logic to improve retrieval.
+- Integrated Groq-hosted LLM inference and source-grounded responses.
+- Exposed the application through a FastAPI backend.
+
+🔗 [View Repository](https://github.com/Yuviworks/Rag-Document-Assistant)
+
+### 3. Home Credit LAP AI Voice Agent
+
+**Conversational AI | LLMs | Retell AI | Prompt Engineering**
+
+- Designed a conversational voice-agent workflow for preliminary Loan Against Property eligibility assessments.
+- Created prompts covering eligibility rules, FAQs, customer objections, and call routing.
+- Developed and tested conversation scenarios, including ambiguous responses and callback requests.
+- Reviewed call transcripts to identify weaknesses and improve response consistency.
+
+🔗 [View Repository](https://github.com/Yuviworks/home-credit-lap-voice-agent)
+
+### 4. ReviewSense — Product Sentiment Analyzer
+
+**Python | scikit-learn | TF-IDF | Streamlit | Matplotlib**
+
+- Built a machine-learning application to classify product reviews as positive, negative, or neutral.
+- Used TF-IDF vectorization to convert text into numerical features.
+- Developed an interactive Streamlit interface with confidence-score visualizations.
+- Added keyword extraction to help interpret review sentiment.
+
+🔗 [View Repository](https://github.com/Yuviworks/Product-Sentiment-Analysis-ReviewSense-Beta-)
+
+### 5. Heart Attack Analysis — Exploratory Data Analysis
+
+**Python | Pandas | NumPy | Matplotlib | Seaborn**
+
+- Explored healthcare data to understand relationships between patient attributes and heart disease indicators.
+- Applied data analysis and visualization techniques to investigate patterns and correlations.
+
+🔗 [View Repository](https://github.com/Yuviworks/Heart-Attack-Analysis-EDA)
 
 ---
 
-📌 **Featured Projects**
+## 💼 Experience
 
-### 🤖 AI-Driven Predictive Maintenance (AIDM) *(In Progress)*
+**AI/ML Virtual Intern — AICTE EduSkills**  
+*October 2025 – December 2025*
 
-- AI-powered predictive maintenance system
-- FastAPI
-- Machine Learning
-- HTML, CSS & JavaScript
-- Interactive Dashboard
+- Completed a 10-week virtual internship supported by Google for Developers.
+- Studied supervised and unsupervised learning concepts and their applications.
+- Practiced data preprocessing, feature engineering, and model evaluation.
+- Developed foundational knowledge of TensorFlow, neural networks, and cross-validation.
 
-### 🚢 Titanic Survival Analysis (EDA)
+---
 
-- Data Cleaning
-- Feature Engineering
-- Data Visualization
-- Statistical Analysis
-- Exploratory Data Analysis
+## 🎓 Education
 
-### ❤️ Heart Attack Analysis (EDA)
+**Marathwada Mitra Mandal Institute of Technology (MMIT), Pune**
 
-- Healthcare Data Analysis
-- Risk Factor Visualization
-- Correlation Analysis
-- Statistical Insights
-- Exploratory Data Analysis
+Bachelor of Engineering — Computer Engineering  
+2023–2027 | SGPA: 9.19
 
-### 😊 Product Review Sentiment Analysis
+---
 
-- Natural Language Processing (NLP)
-- Text Classification
-- Sentiment Analysis
-- Machine Learning
-- Scikit-learn
+## 📜 Certifications
+
+- Programming Foundations with Python — NxtWave CCBP 4.0 Academy
+- Introduction to Databases & Data Querying using SQL — NxtWave CCBP 4.0 Academy
+- AI/ML Foundation Course — NASSCOM FutureSkills Prime
+- Introduction to Generative AI — AWS Educate
+- Generative AI Mastery Workshop — OpenAI Academy × NxtWave
+
+---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **vethekaryuvraj@gmail.com**
-
-- 💼 LinkedIn: **https://www.linkedin.com/in/yuvrajvethekar**
-
+- **Email:** vethekaryuvraj@gmail.com
+- **LinkedIn:** [yuvrajvethekar](https://www.linkedin.com/in/yuvrajvethekar)
+- **GitHub:** [Yuviworks](https://github.com/Yuviworks)
 
 ---
 
 <p align="center">
-✨ <b>"Turning data into intelligent solutions, one project at a time."</b> ✨
+  <b>Building useful AI applications, one project at a time. 🚀</b>
 </p>
