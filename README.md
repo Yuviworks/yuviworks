@@ -1,10 +1,10 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:123B63,100:00E5FF&height=220&section=header&text=Yuvraj%20Vethekar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=17" alt="Yuvraj Vethekar profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:123B63,100:00E5FF&height=220&section=header&text=Yuvraj%20Vethekar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=17" alt="Yuvraj Vethekar profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI%2FML+Applications;Generative+AI+%7C+LLMs+%7C+RAG;Exploring+Agentic+AI+Workflows" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineering+%7C+Model+Development;Data+Science+%7C+Machine+Learning;Generative+AI+%7C+LLMs+%7C+RAG" alt="Animated typing text" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Name       : Yuvraj Vethekar
 Education  : B.E. Computer Engineering, MMIT Pune
 Graduation : 2027
 Current    : Final-year student
-Focus      : Artificial Intelligence, Machine Learning and Generative AI
+Focus      : AI/ML Engineering, Data Science and Generative AI
 ```
 
 - 🎓 Final-year Computer Engineering student at MMIT, Pune.
