@@ -1,165 +1,150 @@
-
-<h1 align="center">Hi 👋, I'm Yuvraj Vethekar</h1>
-
-<h3 align="center">
-AI/ML Developer | GenAI Enthusiast | Python Developer
-</h3>
-
+<!-- ===================== PROFILE HEADER ===================== -->
 <p align="center">
-  🎓 B.E. Computer Engineering, MMIT Pune (2023–2027)<br>
-  📍 Pune, India<br>
-  📊 SGPA: 9.19<br>
-  🤖 Building AI applications, RAG systems, and multi-agent workflows
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:123B63,100:00E5FF&height=220&section=header&text=Yuvraj%20Vethekar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%2FML%20%7C%20GenAI%20Developer&descAlignY=58&descSize=17" alt="Yuvraj Vethekar profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yuviworks">GitHub</a> •
-  <a href="https://www.linkedin.com/in/yuvrajvethekar">LinkedIn</a> •
-  <a href="mailto:vethekaryuvraj@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Data+Analytics;Building+AI+and+GenAI+Applications;Exploring+RAG%2C+LLMs+%26+Agentic+AI" alt="Animated typing text" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuviworks&style=for-the-badge&color=00B8D9" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Yuviworks?style=for-the-badge&color=123B63&label=GitHub%20Followers" alt="GitHub followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## `whoami` — About Me
 
-I'm a final-year Computer Engineering student interested in Artificial Intelligence, Machine Learning, Generative AI, and applied data science.
+```text
+Name       : Yuvraj Vethekar
+Education  : B.E. Computer Engineering, MMIT Pune
+Graduation : 2027
+Current    : Final-year student
+Focus      : Data Analytics, Python, AI/ML and Generative AI
+```
 
-I enjoy building practical applications that combine Python, machine learning, LLMs, information retrieval, and backend APIs.
+- 🎓 Final-year Computer Engineering student at MMIT, Pune.
+- 📊 Building my skills in Python, SQL, data analysis, and visualization.
+- 🤖 Exploring RAG systems, LLM integrations, and agentic AI workflows.
+- 🛠️ Interested in turning data and AI ideas into useful applications.
+- 🌱 Currently strengthening my Data Analyst foundations while continuing to explore AI/ML.
 
-- 🧠 Exploring AI/ML, NLP, RAG, and agentic AI
-- 🔍 Building applications with LangGraph, ChromaDB, and LLM APIs
-- 🐍 Working with Python, SQL, Pandas, and NumPy
-- ⚙️ Developing backend services using FastAPI
-- 📈 Interested in solving real-world problems through data and AI
-- 🎯 Open to relevant AI/ML, GenAI, and data-focused internship opportunities
+## `tech_stack` — Technologies & Tools
 
-## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=00E5FF" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-0B1020?style=for-the-badge&logo=pandas&logoColor=00E5FF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0B1020?style=for-the-badge&logo=numpy&logoColor=00E5FF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-0B1020?style=for-the-badge&logo=plotly&logoColor=00E5FF" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logoColor=00E5FF" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/ChromaDB-0B1020?style=for-the-badge&logoColor=00E5FF" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=00E5FF" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-0B1020?style=for-the-badge&logo=streamlit&logoColor=00E5FF" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=00E5FF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF" alt="VS Code" />
+</p>
 
-**Programming**
-- Python, SQL, JavaScript, C++
-
-**Data Science & Machine Learning**
-- Pandas, NumPy, scikit-learn, TensorFlow
-- Matplotlib, Seaborn, Exploratory Data Analysis
-- Data preprocessing, feature engineering, model evaluation
-
-**Generative AI & NLP**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangGraph, embeddings, semantic search
-- ChromaDB, prompt engineering, conversational AI
-
-**Backend & APIs**
-- FastAPI, REST APIs, JSON
-
-**Databases**
-- MySQL, ChromaDB
-
-**Tools & Platforms**
-- Git, GitHub, VS Code
-- Jupyter Notebook, Google Colab
-- Streamlit
-
----
-
-## 🚀 Featured Projects
+## `featured_projects` — Selected Projects
 
 ### 1. AI-Native Multi-Agent Research Assistant
+**Python · LangGraph · FastAPI · Streamlit · ChromaDB · Tavily · Groq**
 
-**Python | LangGraph | FastAPI | Streamlit | ChromaDB | Tavily | Groq**
+- Research workflow designed to break complex questions into manageable subtasks.
+- Combines web search with local-document retrieval to support research.
+- Includes planning, research, and report-generation steps.
 
-- Built a research workflow that decomposes complex questions into focused sub-questions.
-- Integrated web search and local document retrieval for evidence-based research.
-- Connected planning, parallel research, and report generation using LangGraph.
-- Developed a Streamlit interface and FastAPI backend.
-- Included an evaluation workflow for selected research-quality indicators.
-
-🔗 [View Repository](https://github.com/Yuviworks/ai-native-research-assistant)
+🔗 [View repository](https://github.com/Yuviworks/ai-native-research-assistant)
 
 ### 2. RAG-Based Technical Documentation Assistant
+**Python · RAG · LangGraph · ChromaDB · FastAPI · Sentence Transformers**
 
-**Python | RAG | LangGraph | ChromaDB | FastAPI | Sentence Transformers**
+- Ingests and processes technical documents for retrieval.
+- Uses embeddings and vector search to find relevant context.
+- Generates responses grounded in retrieved documentation.
 
-- Built a documentation assistant that answers technical questions using indexed documents.
-- Implemented document ingestion, chunking, embeddings, and semantic retrieval.
-- Added document relevance grading and query-retry logic to improve retrieval.
-- Integrated Groq-hosted LLM inference and source-grounded responses.
-- Exposed the application through a FastAPI backend.
-
-🔗 [View Repository](https://github.com/Yuviworks/Rag-Document-Assistant)
+🔗 [View repository](https://github.com/Yuviworks/Rag-Document-Assistant)
 
 ### 3. Home Credit LAP AI Voice Agent
+**Conversational AI · LLMs · Retell AI · Prompt Engineering**
 
-**Conversational AI | LLMs | Retell AI | Prompt Engineering**
+- Designed conversational prompts for preliminary Loan Against Property eligibility assessment.
+- Worked with conversation scenarios and call-transcript review.
 
-- Designed a conversational voice-agent workflow for preliminary Loan Against Property eligibility assessments.
-- Created prompts covering eligibility rules, FAQs, customer objections, and call routing.
-- Developed and tested conversation scenarios, including ambiguous responses and callback requests.
-- Reviewed call transcripts to identify weaknesses and improve response consistency.
-
-🔗 [View Repository](https://github.com/Yuviworks/home-credit-lap-voice-agent)
+🔗 [View repository](https://github.com/Yuviworks/home-credit-lap-voice-agent)
 
 ### 4. ReviewSense — Product Sentiment Analyzer
+**Python · Scikit-learn · TF-IDF · Streamlit · Matplotlib**
 
-**Python | scikit-learn | TF-IDF | Streamlit | Matplotlib**
+- Classifies product reviews into sentiment categories.
+- Presents sentiment results and visual summaries through a Streamlit interface.
 
-- Built a machine-learning application to classify product reviews as positive, negative, or neutral.
-- Used TF-IDF vectorization to convert text into numerical features.
-- Developed an interactive Streamlit interface with confidence-score visualizations.
-- Added keyword extraction to help interpret review sentiment.
-
-🔗 [View Repository](https://github.com/Yuviworks/Product-Sentiment-Analysis-ReviewSense-Beta-)
+🔗 [View repository](https://github.com/Yuviworks/Product-Sentiment-Analysis-ReviewSense-Beta-)
 
 ### 5. Heart Attack Analysis — Exploratory Data Analysis
+**Python · Pandas · NumPy · Matplotlib · Seaborn**
 
-**Python | Pandas | NumPy | Matplotlib | Seaborn**
+- Explores a heart-attack-related dataset using data cleaning and exploratory analysis.
+- Uses visualizations to examine patterns and relationships in the data.
 
-- Explored healthcare data to understand relationships between patient attributes and heart disease indicators.
-- Applied data analysis and visualization techniques to investigate patterns and correlations.
+🔗 [View repository](https://github.com/Yuviworks/Heart-Attack-Analysis-EDA)
 
-🔗 [View Repository](https://github.com/Yuviworks/Heart-Attack-Analysis-EDA)
-
----
-
-## 💼 Experience
+## `experience` — Experience
 
 **AI/ML Virtual Intern — AICTE EduSkills**  
 *October 2025 – December 2025*
 
-- Completed a 10-week virtual internship supported by Google for Developers.
-- Studied supervised and unsupervised learning concepts and their applications.
-- Practiced data preprocessing, feature engineering, and model evaluation.
-- Developed foundational knowledge of TensorFlow, neural networks, and cross-validation.
+- Completed a virtual internship focused on foundational AI/ML concepts.
+- Explored data preprocessing, feature engineering, model evaluation, and neural-network concepts.
 
----
+## `education` — Education
 
-## 🎓 Education
+**B.E. Computer Engineering**  
+Marathwada Mitra Mandal's Institute of Technology (MMIT), Pune  
+2023 – 2027
 
-**Marathwada Mitra Mandal Institute of Technology (MMIT), Pune**
+## `certifications` — Certifications
 
-Bachelor of Engineering — Computer Engineering  
-2023–2027 | SGPA: 9.19
-
----
-
-## 📜 Certifications
-
-- Programming Foundations with Python — NxtWave CCBP 4.0 Academy
-- Introduction to Databases & Data Querying using SQL — NxtWave CCBP 4.0 Academy
-- AI/ML Foundation Course — NASSCOM FutureSkills Prime
-- Introduction to Generative AI — AWS Educate
+- Python and SQL — NxtWave
+- AI/ML Foundation — NASSCOM
+- Generative AI — AWS Educate
 - Generative AI Mastery Workshop — OpenAI Academy × NxtWave
 
----
-
-## 📫 Connect With Me
-
-- **Email:** vethekaryuvraj@gmail.com
-- **LinkedIn:** [yuvrajvethekar](https://www.linkedin.com/in/yuvrajvethekar)
-- **GitHub:** [Yuviworks](https://github.com/Yuviworks)
-
----
+## `github_stats` — GitHub Activity
 
 <p align="center">
-  <b>Building useful AI applications, one project at a time. 🚀</b>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuviworks&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=00E5FF&text_color=E6F1FF" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuviworks&layout=compact&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=E6F1FF" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yuviworks&hide_border=true&background=0B1020&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6F1FF&dates=8BA3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
+</p>
+
+## `connect` — Find Me Online
+
+<p align="center">
+  <a href="https://yuvi-portfolio-five.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuvrajvethekar">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vethekaryuvraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" />
+  </a>
+  <a href="https://github.com/Yuviworks">
+    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Learn continuously. Build thoughtfully. Improve every day.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,55:123B63,100:0B1020&height=100&section=footer" alt="Decorative footer wave" width="100%" />
 </p>
